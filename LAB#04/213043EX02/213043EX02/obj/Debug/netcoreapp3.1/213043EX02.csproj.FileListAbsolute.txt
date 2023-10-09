@@ -1,0 +1,12 @@
+C:\Users\213043\source\repos\213043EX02\213043EX02\obj\Debug\netcoreapp3.1\213043EX02.AssemblyInfoInputs.cache
+C:\Users\213043\source\repos\213043EX02\213043EX02\obj\Debug\netcoreapp3.1\213043EX02.AssemblyInfo.cs
+C:\Users\213043\source\repos\213043EX02\213043EX02\obj\Debug\netcoreapp3.1\213043EX02.csproj.CoreCompileInputs.cache
+C:\Users\213043\source\repos\213043EX02\213043EX02\bin\Debug\netcoreapp3.1\213043EX02.exe
+C:\Users\213043\source\repos\213043EX02\213043EX02\bin\Debug\netcoreapp3.1\213043EX02.deps.json
+C:\Users\213043\source\repos\213043EX02\213043EX02\bin\Debug\netcoreapp3.1\213043EX02.runtimeconfig.json
+C:\Users\213043\source\repos\213043EX02\213043EX02\bin\Debug\netcoreapp3.1\213043EX02.runtimeconfig.dev.json
+C:\Users\213043\source\repos\213043EX02\213043EX02\bin\Debug\netcoreapp3.1\213043EX02.dll
+C:\Users\213043\source\repos\213043EX02\213043EX02\bin\Debug\netcoreapp3.1\213043EX02.pdb
+C:\Users\213043\source\repos\213043EX02\213043EX02\obj\Debug\netcoreapp3.1\213043EX02.dll
+C:\Users\213043\source\repos\213043EX02\213043EX02\obj\Debug\netcoreapp3.1\213043EX02.pdb
+C:\Users\213043\source\repos\213043EX02\213043EX02\obj\Debug\netcoreapp3.1\213043EX02.genruntimeconfig.cache
